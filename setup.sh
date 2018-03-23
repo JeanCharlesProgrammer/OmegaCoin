@@ -40,8 +40,8 @@ chmod -R 755 /root/.omegacoincore
 
 echo ""
 echo "Configure your masternodes now!"
-echo "Type the IP of this server, followed by [ENTER]:"
-IP=45.76.229.137
+echo "Type the IP of this server:"
+IP=Input_here_IP_of_your_VPS_SERVER
 echo $IP
 
 echo ""
